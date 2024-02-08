@@ -6,4 +6,4 @@ The purpose of this challenge was to refactor the code to be more efficient for 
 
 ## Screenshot
 
-![](assets\images\landing-page.png)
+![landing home page](assets\images\landing-page.png)
