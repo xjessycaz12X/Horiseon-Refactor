@@ -6,4 +6,8 @@ The purpose of this challenge was to refactor the code to be more efficient for 
 
 ## Screenshot
 
-![landing home page](assets\images\landing-page.png)
+![image](assets\images\landing-page.png)
+
+## Link
+
+[Deployed](https://xjessycaz12x.github.io/Horiseon-Refactor/)
